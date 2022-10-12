@@ -1,3 +1,3 @@
 # azureprojects
 firstwebsitewithazure
-This is the Azure website https://vinodbi.github.io/azureprojects/
+This is the Azure website https://mango-wave-0a9887910.2.azurestaticapps.net
